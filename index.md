@@ -22,8 +22,7 @@ Thank you!
 
 <p>&nbsp;</p>
 
-# DISCLAIMER
-
+# Disclaimer
 The files on this page are available only for the recruiters and hiring staffs, and it is to present my previous works as a reference. All the files are strictly private and personal and should not be copied, distributed or reproduced in whole or in part, nor passed to any third party. 
  
 
