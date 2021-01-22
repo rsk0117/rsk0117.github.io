@@ -1,4 +1,4 @@
-# Welcome to Rachel Sukhyun Kim's GitHub Page! 
+# Welcome to Sukhyun Kim's GitHub Page! 
 
 Hello, this is Sukhyun Kim. 
 
