@@ -28,10 +28,11 @@ Thank you!
 * **The Reformed University** [Website Redesign Project (2014)](http://rachelskim.net/ru_first_website_project): Coded the entire website with HTML, CSS, and JavaScript
 
 ### IT System & Business Proposal 
-* **RFI (Request For Information) Project **
-  - []()
-* **Mobile App Startup Business Plan** 
-  - [Audio Study Material App Bussiness Plan (2016)](hhttps://docs.google.com/document/d/1aN8mCbtzt0BVJjTsMgQVhzkWwibV2sZ6uGsS3s2FNiA/edit?usp=sharing)
+* **IT Strategy Project at ITC (Annual IT Competition among California State Universities) - Won 1st Place **
+  - [RFI(Request For Information) on Implementation of Parental Control for Online Shopping - Power Point(2017)](https://drive.google.com/file/d/1FfGZHEulErjupH5WAt8xB1y8fZ2bbDFq/view?usp=sharing)
+  - [RFI Write Up (2017)](https://drive.google.com/file/d/1He83Rg8QH0uHLmIIOcdpGMhk45gWuAa6/view?usp=sharing)
+* **Mobile App Startup Business Plan - Won 1st Place** 
+  - [Audio Study Material App Bussiness Plan - Write Up (2016)](hhttps://docs.google.com/document/d/1aN8mCbtzt0BVJjTsMgQVhzkWwibV2sZ6uGsS3s2FNiA/edit?usp=sharing)
   - [Audio Study Material App Bussiness Plan - Promo Video (2016)](hhttps://docs.google.com/document/d/1aN8mCbtzt0BVJjTsMgQVhzkWwibV2sZ6uGsS3s2FNiA/edit?usp=sharing)
 * **System Analysis & Development Project** 
   - [Inventory System Development Proposal Write Up (2016)](https://github.com/rsk0117/RSK_Portfolio/blob/main/%5BFinal%20Ver.%5D%20Inventory%20System%20Proposal%20to%20ER%20Music%20by%20Matador%20Consulting%20(IS431%20Group%20Project).pdf)
