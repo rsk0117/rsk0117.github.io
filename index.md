@@ -47,7 +47,7 @@ Thank you!
 * **Digital Analytics Project** [Comprehensive Brand Performance Analysis on Google Merchant Store (2018)](https://docs.google.com/presentation/d/1NungEWfiRAu-__ZOocBe_xFdogf_gTGTWfrmLgUn7eE/edit?usp=sharing)
 
 ### Digital Marketing & Sales
-* **The Populus Brands** [Internship Project - Marketing Sales Deck (2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
+* **The Populus Brands** [Internship Project - Marketing Sales Deck for Dance Moms(2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
 
 <p>&nbsp;</p>
 <hr/>
