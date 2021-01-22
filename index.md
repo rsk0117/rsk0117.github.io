@@ -1,8 +1,17 @@
 ## Welcome to Rachel Sukhyun Kim's GitHub Page! 
 
-You can use the [editor on GitHub](https://github.com/rsk0117/rsk0117.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, this is Sukhyun Kim. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about solving business problems, and I become excited when I get to turn data into meaningful information. 
+
+I have studied in information systems and digital marketing in college. And, I'm currently in a data analytics bootcamp to widen my horizon. 
+
+You can find some of my school works and technical projects here.
+
+If you have any questions, please contact me via www.linkedin.com/in/sukhyun-kim.
+
+Thank you! 
+
 
 ### Projects
 
@@ -27,11 +36,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rsk0117/rsk0117.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
