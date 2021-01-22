@@ -28,6 +28,7 @@ Thank you!
 * **The Maaru** [E-Commerce Website (2020)](https://www.themaaru.com): Created the E-Commerce website
 
 <p>&nbsp;</p>
+
 # Marketing/Sales Projects
 ### Digital Marketing & Branding
 * 
@@ -36,6 +37,7 @@ Thank you!
 * **The Populus Brands** [Internship Project - Marketing Sales Deck (2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
 
 <p>&nbsp;</p>
+
 # Visual Projects
 ### Graphic Design
 * **The Populus Brands** [Internship Project - Marketing Sales Deck (2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
