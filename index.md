@@ -12,7 +12,7 @@ If you have any questions, please contact me via www.linkedin.com/in/sukhyun-kim
 
 Thank you! 
 
-<p>&nbsp;</p><p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Projects
 1. [The Reformed University Website Project](http://rachelskim.net/ru_first_website_project/)
