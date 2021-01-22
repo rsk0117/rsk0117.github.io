@@ -16,9 +16,10 @@ Thank you!
 
 # IT Projects
 ### Data Analytics
-* **ETL Project** 
-  - [Netflix Rating Data (2020)](http://rachelskim.net/ETL_Project): Used Netflix data to find the meaning of the ratings of TV shows & movies. Used Python, Pandas library, and PostgreSQL.
-* **Data Analysis Project #1** [Stock Market Data (2020)](http://rachelskim.net/Data_Project_1): Analyzed the US stock market data with Python, API, Pandas, NumPy, and Matplotlib library.
+* **ETL Project** [Netflix Rating Data (2020)](http://rachelskim.net/ETL_Project)
+  - Used Netflix data to find the meaning of the ratings of TV shows & movies. Used Python, Pandas library, and PostgreSQL.
+* **Data Analysis Project #1** [Stock Market Data (2020)](http://rachelskim.net/Data_Project_1)
+  - Analyzed the US stock market data with Python, API, Pandas, NumPy, and Matplotlib library.
 
 ### Web Design & Front-End Development
 * **The Maaru** [E-Commerce Website (2020)](https://www.themaaru.com): Created the E-Commerce website
