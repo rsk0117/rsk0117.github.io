@@ -34,7 +34,7 @@ Thank you!
 ### Video Production & Editing
 * **I JOAH** [F/W Fall Season Promo Video (2020)](https://www.youtube.com/watch?v=KMKp3q4urOs&ab_channel=IJOAH): Planned, created, and edited the video with Adobe Premiere Pro
 * **InChrist Community Church** : Used Adobe Premiere Pro and Audition to make the videos
-*Tabspace* * [Weekly News Video (2019)](https://www.youtube.com/watch?v=3lo65sKumys)
+ * [Weekly News Video (2019)](https://www.youtube.com/watch?v=3lo65sKumys)
 
 
 <p>&nbsp;</p>
