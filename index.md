@@ -15,25 +15,5 @@ Thank you!
 <p>&nbsp;</p>
 
 ## Projects
-1. [The Reformed University Website Project](http://rachelskim.net/ru_first_website_project/)
+1. [The Reformed University Website Project (2014)](http://rachelskim.net/ru_first_website_project/)
 
-```markdown
-1. [The Reformed University Website Project: http://rachelskim.net/ru_first_website_project/)
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
