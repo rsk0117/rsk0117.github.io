@@ -16,9 +16,8 @@ Thank you!
 
 ## Projects
 
-1. 
-
 ```markdown
+1. 
 Syntax highlighted code block
 
 # Header 1
