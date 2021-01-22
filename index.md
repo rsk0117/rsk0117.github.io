@@ -16,6 +16,12 @@ Thank you!
 
 # Projects
 ### Web Design
-* [The Reformed University Website Project (2014)](http://rachelskim.net/ru_first_website_project/)
+* [The Maaru | E-Commerce Website ](www.themaaru.com): Created the E-Commerce website
+* [Sprout Mission | Website Redesign Project(2019)](www.sproutmission.org): Redesigned the entire website
+* [The Reformed University | Website Redesign Project (2014)](http://rachelskim.net/ru_first_website_project): Coded the entire website with HTML, CSS, and JavaScript
+
+<p>&nbsp;</p>
+# DISCLAIMER 
+The files on this page are available only for the recruiters and hiring staffs, and it is to present my previous works as a reference. All the files are strictly private and personal and should not be copied, distributed or reproduced in whole or in part, nor passed to any third party. 
  
 
