@@ -8,7 +8,7 @@ I have studied in information systems and digital marketing in college. And, I'm
 
 You can find some of my school works and technical projects here.
 
-If you have any questions, please contact me via my **[LinkedIn Profile](www.linkedin.com/in/sukhyun-kim)**.
+If you have any questions, please contact me via my **[LinkedIn Profile](https://www.linkedin.com/in/sukhyun-kim)**.
 
 Thank you! 
 
@@ -27,15 +27,24 @@ Thank you!
 * **Sprout Mission** [Website Redesign Project (2019)](https://www.sproutmission.org): Redesigned the entire website, Made it mobile friendly and responsive
 * **The Reformed University** [Website Redesign Project (2014)](http://rachelskim.net/ru_first_website_project): Coded the entire website with HTML, CSS, and JavaScript
 
-### Project Management & Business Proposal
-* **The Maaru** [E-Commerce Website (2020)](https://www.themaaru.com): Created the E-Commerce website
-
+### IT System & Business Proposal 
+* **RFI (Request For Information) Project **
+  - []()
+* **Mobile App Startup Business Plan** 
+  - [Audio Study Material App Bussiness Plan (2016)](hhttps://docs.google.com/document/d/1aN8mCbtzt0BVJjTsMgQVhzkWwibV2sZ6uGsS3s2FNiA/edit?usp=sharing)
+  - [Audio Study Material App Bussiness Plan - Promo Video (2016)](hhttps://docs.google.com/document/d/1aN8mCbtzt0BVJjTsMgQVhzkWwibV2sZ6uGsS3s2FNiA/edit?usp=sharing)
+* **System Analysis & Development Project** 
+  - [Inventory System Development Proposal Write Up (2016)](https://github.com/rsk0117/RSK_Portfolio/blob/main/%5BFinal%20Ver.%5D%20Inventory%20System%20Proposal%20to%20ER%20Music%20by%20Matador%20Consulting%20(IS431%20Group%20Project).pdf)
+  - [Inventory System Development Proposal PowerPoint (2016)](https://docs.google.com/presentation/d/1FDtaRJzuF7p2zX8Jq10eBdnGsQt7l5rDaHfFLKebdFI/edit?usp=sharing)
+  
 <p>&nbsp;</p>
 <hr/>
 
 # Marketing/Sales Projects
 ### Digital Marketing & Branding
-* 
+* **Branding & Digital Marketing Strategy Project** [Glossier Branding & Digital Marketing Strategy Proposal for a New Product Line (2019)](https://docs.google.com/presentation/d/1GfHSnzOLIlJya9zQEmTZWcbz7YnSyyRD_-obd-TCXUA/edit?usp=sharing)
+
+* **Digital Analytics Project** [Comprehensive Brand Performance Analysis on Google Merchant Store (2018)](https://docs.google.com/presentation/d/1NungEWfiRAu-__ZOocBe_xFdogf_gTGTWfrmLgUn7eE/edit?usp=sharing)
 
 ### Digital Marketing & Sales
 * **The Populus Brands** [Internship Project - Marketing Sales Deck (2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
@@ -45,20 +54,20 @@ Thank you!
 
 # Visual Projects
 ### Graphic Design
-* **The Populus Brands** [Internship Project - Marketing Sales Deck (2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
+* 
 
 ### Video Production & Editing
 * **I JOAH** [F/W Fall Season Promo Video (2020)](https://www.youtube.com/watch?v=KMKp3q4urOs&ab_channel=IJOAH): Planned, created, and edited the video with Adobe Premiere Pro
 * **InChrist Community Church** : Used Adobe Premiere Pro and Audition to make the videos<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - [Church Retreat in Korea Promo Video (05.2019)](https://www.youtube.com/watch?v=O90U0aU-nJU)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - [Church Retreat Promo Video (05.2019)](https://www.youtube.com/watch?v=H6O-7DAPENQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - [Church Bible School Promo Video (04.2019)](https://www.youtube.com/watch?v=hUst-BnQQn8)
+&nbsp;&nbsp;&nbsp;&nbsp; - [Bible Camp in Korea Promo Video (2019)](https://www.youtube.com/watch?v=O90U0aU-nJU)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - [Seasonal Retreat Promo Video (2019)](https://www.youtube.com/watch?v=H6O-7DAPENQ)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - [Church Bible School Promo Video (2019)](https://www.youtube.com/watch?v=hUst-BnQQn8)
 
 
 <p>&nbsp;</p>
 <hr/>
 
 # Disclaimer
-The files on this page are available only for the recruiters and hiring staffs, and it is to present my previous works as a reference. All the files are strictly private and personal and should not be copied, distributed or reproduced in whole or in part, nor passed to any third party. 
+The files on this page are only available to recruiters and hiring staff, and it is to present my previous works as a reference. All the files are strictly private and personal and should not be copied, distributed or reproduced in whole or in part, nor passed to any third party. 
  
 
