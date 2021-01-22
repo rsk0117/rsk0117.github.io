@@ -13,6 +13,7 @@ If you have any questions, please contact me via **my [LinkedIn Profile](www.lin
 Thank you! 
 
 <p>&nbsp;</p>
+<hr/>
 
 # IT Projects
 ### Data Analytics
@@ -30,6 +31,7 @@ Thank you!
 * **The Maaru** [E-Commerce Website (2020)](https://www.themaaru.com): Created the E-Commerce website
 
 <p>&nbsp;</p>
+<hr/>
 
 # Marketing/Sales Projects
 ### Digital Marketing & Branding
@@ -39,6 +41,7 @@ Thank you!
 * **The Populus Brands** [Internship Project - Marketing Sales Deck (2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
 
 <p>&nbsp;</p>
+<hr/>
 
 # Visual Projects
 ### Graphic Design
@@ -53,6 +56,7 @@ Thank you!
 
 
 <p>&nbsp;</p>
+<hr/>
 
 # Disclaimer
 The files on this page are available only for the recruiters and hiring staffs, and it is to present my previous works as a reference. All the files are strictly private and personal and should not be copied, distributed or reproduced in whole or in part, nor passed to any third party. 
