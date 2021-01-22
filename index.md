@@ -8,7 +8,7 @@ I have studied in information systems and digital marketing in college. And, I'm
 
 You can find some of my school works and technical projects here.
 
-If you have any questions, please contact me via **my [LinkedIn Profile](www.linkedin.com/in/sukhyun-kim)**.
+If you have any questions, please contact me via my **[LinkedIn Profile](www.linkedin.com/in/sukhyun-kim)**.
 
 Thank you! 
 
