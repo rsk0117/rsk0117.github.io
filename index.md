@@ -17,7 +17,7 @@ Thank you!
 ## Projects
 
 ```markdown
-1. 
+1. [The Reformed University Website Project](http://rachelskim.net/ru_first_website_project/)
 Syntax highlighted code block
 
 # Header 1
