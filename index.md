@@ -28,7 +28,7 @@ Thank you!
 * **The Reformed University** [Website Redesign Project (2014)](http://rachelskim.net/ru_first_website_project): Coded the entire website with HTML, CSS, and JavaScript
 
 ### IT System & Business Proposal 
-* **IT Strategy Project at ITC (Annual IT Competition among California State Universities) - Won 1st Place **
+* **IT Strategy Project at ITC (Annual IT Competition among California State Universities) - Won 1st Place**
   - [RFI(Request For Information) on Implementation of Parental Control for Online Shopping - Power Point(2017)](https://drive.google.com/file/d/1FfGZHEulErjupH5WAt8xB1y8fZ2bbDFq/view?usp=sharing)
   - [RFI Write Up (2017)](https://drive.google.com/file/d/1He83Rg8QH0uHLmIIOcdpGMhk45gWuAa6/view?usp=sharing)
 * **Mobile App Startup Business Plan - Won 1st Place** 
@@ -48,7 +48,8 @@ Thank you!
 * **Digital Analytics Project** [Comprehensive Brand Performance Analysis on Google Merchant Store (2018)](https://docs.google.com/presentation/d/1NungEWfiRAu-__ZOocBe_xFdogf_gTGTWfrmLgUn7eE/edit?usp=sharing)
 
 ### Digital Marketing & Sales
-* **The Populus Brands** [Internship Project - Marketing Sales Deck for Dance Moms(2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
+* **The Populus Brands** 
+  - [Internship Project - Marketing Sales Deck for Dance Moms(2016)](https://docs.google.com/presentation/d/1i8_gdWDMxuwO-nUcCSjtJjo-IkSf8xmbn5uuwv36UyI/edit?usp=sharing): Marketing Sales Deck for Entertainment Business/TV Production
 
 <p>&nbsp;</p>
 <hr/>
