@@ -17,13 +17,13 @@ Thank you!
 
 # IT Projects
 ### Data Analytics
-* **ETL Project** [Netflix Rating Data (2020)](http://rachelskim.net/ETL_Project)
+* **ETL Project** - [Netflix Rating Data (2020)](http://rachelskim.net/ETL_Project)
   - Used Netflix data to find the meaning of the ratings of TV shows & movies. Used Python, Pandas library, and PostgreSQL.
 * **Data Analysis Project #1** [Stock Market Data (2020)](http://rachelskim.net/Data_Project_1)
   - Analyzed the US stock market data with Python, API, Pandas, NumPy, and Matplotlib library.
 
 ### Web Design & Front-End Development
-* **The Maaru** [E-Commerce Website (2020)](https://www.themaaru.com): Created the E-Commerce website
+* **The Maaru** - [E-Commerce Website (2020)](https://www.themaaru.com): Created the E-Commerce website
 * **Sprout Mission** [Website Redesign Project (2019)](https://www.sproutmission.org): Redesigned the entire website, Made it mobile friendly and responsive
 * **The Reformed University** [Website Redesign Project (2014)](http://rachelskim.net/ru_first_website_project): Coded the entire website with HTML, CSS, and JavaScript
 
