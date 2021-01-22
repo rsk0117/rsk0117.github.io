@@ -16,8 +16,8 @@ Thank you!
 
 # Projects
 ### Web Design
-* The Maaru E-Commerce Website (2020) - www.themaaru.com: Created the E-Commerce website
-* Sprout Mission Website Redesign Project (2019) - www.sproutmission.org: Redesigned the entire website
+* The Maaru [E-Commerce Website (2020)](www.themaaru.com): Created the E-Commerce website
+* Sprout Mission [Website Redesign Project (2019)](www.sproutmission.org): Redesigned the entire website
 * The Reformed University [Website Redesign Project (2014)](http://rachelskim.net/ru_first_website_project): Coded the entire website with HTML, CSS, and JavaScript
 
 <p>&nbsp;</p>
