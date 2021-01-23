@@ -56,14 +56,14 @@ Thank you!
 
 # Visual Projects
 ### Graphic Design
-* 
+* **Comming Soon**
 
 ### Video Production & Editing
 * **I JOAH** [F/W Fall Season Promo Video (2020)](https://www.youtube.com/watch?v=KMKp3q4urOs&ab_channel=IJOAH): Planned, created, and edited the video with Adobe Premiere Pro
 * **InChrist Community Church** : Used Adobe Premiere Pro and Audition to make the videos<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - [Bible Camp in Korea Promo Video (2019)](https://www.youtube.com/watch?v=O90U0aU-nJU)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - [Seasonal Retreat Promo Video (2019)](https://www.youtube.com/watch?v=H6O-7DAPENQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - [Church Bible School Promo Video (2019)](https://www.youtube.com/watch?v=hUst-BnQQn8)
+  - (Video) [Bible Camp in Korea Promo Video (2019)](https://www.youtube.com/watch?v=O90U0aU-nJU)<br>
+  - (Video) [Seasonal Retreat Promo Video (2019)](https://www.youtube.com/watch?v=H6O-7DAPENQ)<br>
+  - (Video) [Church Bible School Promo Video (2019)](https://www.youtube.com/watch?v=hUst-BnQQn8)
 
 
 <p>&nbsp;</p>
