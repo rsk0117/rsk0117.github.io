@@ -17,7 +17,7 @@ Thank you!
 
 # IT Projects
 ### Data Analytics
-* **ETL Project** - [Netflix Rating Data (2020)](http://rachelskim.net/ETL_Project)
+* **ETL Project** - [Netflix Rating Data (2020)](https://github.com/rsk0117/RSK_Portfolio/tree/main/ETL_netflix_rating_data_project)
   - Used Netflix data to find the meaning of the ratings of TV shows & movies. Used Python, Pandas library, and PostgreSQL.
 * **Data Analysis Project #1** [Stock Market Data (2020)](https://github.com/rsk0117/RSK_Portfolio/tree/main/stock_market_data_project)
   - Analyzed the US stock market data with Python, API, Pandas, NumPy, and Matplotlib library.
