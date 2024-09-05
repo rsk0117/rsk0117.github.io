@@ -16,6 +16,11 @@ Thank you!
 <hr/>
 
 # IT Projects
+### Information Systems (ERP, CRM, EMR, etc.)
+* **EMR Project (2024)**
+  - Built a custom EMR system that synchronizes patient records, treatment sessions, and billing, and automatically populates SOP notes and medical reports.
+* **CRM/ERP Project (2024)**
+  - WIP.
 ### Data Analytics
 * **ETL Project** - [Netflix Rating Data (2020)](https://github.com/rsk0117/RSK_Portfolio/tree/main/ETL_netflix_rating_data_project)
   - Used Netflix data to find the meaning of the ratings of TV shows & movies. Used Python, Pandas library, and PostgreSQL.
